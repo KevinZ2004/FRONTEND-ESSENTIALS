@@ -3,7 +3,7 @@ var voornaam = prompt("wat is je voornaam");
 var element = document.getElementById("id01");
 element.innerHTML = voornaam;
 
-//achternaam
+//achternaam.
 var achternaam = prompt("wat is je achternaam");
 var element = document.getElementById("id02");
 element.innerHTML = achternaam;
